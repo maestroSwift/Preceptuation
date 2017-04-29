@@ -1,0 +1,6 @@
+framework module Pods_Preceptuation {
+  umbrella header "Pods-Preceptuation-umbrella.h"
+
+  export *
+  module * { export * }
+}

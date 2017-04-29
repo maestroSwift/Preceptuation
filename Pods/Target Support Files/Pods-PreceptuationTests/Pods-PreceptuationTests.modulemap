@@ -1,0 +1,6 @@
+framework module Pods_PreceptuationTests {
+  umbrella header "Pods-PreceptuationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
